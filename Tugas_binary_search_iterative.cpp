@@ -27,7 +27,7 @@ int BinarySearchIterative(int data[], int n, int target) // fungsi untuk mencari
     return -1;
 }
 
-void urutkanData(int data[], int n) // fungsi untuk mengurukan data 
+void urutkanData(int data[], int n) // fungsi untuk mengurutkan data 
 {
     for (int i = 0; i < n - 1; i++)
     {
